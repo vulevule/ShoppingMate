@@ -1,8 +1,30 @@
 <resources>
     <string name="app_name">ShoppingMate</string>
-    <!-- String related to welcome screen -->
+    <!-- String related to welcome texts -->
     <string name="welcome">"Discover Amazing Shopping Malls!"</string>
     <string name="background_image_description">"Background image"</string>
+    <string name="terms_text">Py pressing Sign Up you agree with the Terms of Services and Privacy policy</string>
+    <string name="create_an_account">"Create an account"</string>
+    <string name="sign_in_with_email">"Sign In With Email"</string>
+
+    <!-- Strings related to actions -->
     <string name="action_skip">Skip</string>
     <string name="action_sign_up">Sign up</string>
+    <string name="action_sign_in">Sign in</string>
+    <string name="action_log_in">Already have an account?</string>
+    <string name="action_need_and_account">Need an account?</string>
+
+    <!-- Strings related to login -->
+
+    <!-- String related to watermark text -->
+    <string name="prompt_first_name">First Name</string>
+    <string name="prompt_last_name">Last Name</string>
+    <string name="prompt_home_town">City</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+
+    <!-- Strings related to toast -->
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
 </resources>
