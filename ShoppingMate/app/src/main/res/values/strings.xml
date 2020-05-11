@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">ShoppingMate</string>
+    <!-- String related to welcome screen -->
+    <string name="welcome">"Discover Amazing Shopping Malls!"</string>
+    <string name="background_image_description">"Background image"</string>
+    <string name="action_skip">Skip</string>
+    <string name="action_sign_up">Sign up</string>
 </resources>
