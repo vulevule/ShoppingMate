@@ -67,6 +67,7 @@
             android:layout_margin="5dp"
             android:layout_weight="1.0"
             android:background="@drawable/welcome_screen_button"
+            android:onClick="register"
             android:text="@string/action_sign_up"
             android:textColor="#FFFFFF" />
 
