@@ -15,7 +15,12 @@ public class WelcomeScreenActivity extends AppCompatActivity {
     }
 
     public void register(View view) {
-        Intent intent = new Intent(this, RegisterActivity.class);
+        Intent intent = new Intent(this, SignUpActivity.class);
         startActivity(intent);
+    }
+
+    public void skip(View view) {
+        //Intent intent = new Intent(this, SignUpActivity.class);
+        //startActivity(intent);
     }
 }
