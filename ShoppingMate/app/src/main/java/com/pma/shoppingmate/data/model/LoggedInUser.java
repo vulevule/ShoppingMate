@@ -8,7 +8,6 @@ public class LoggedInUser {
         this.email = email;
         this.name = name;
     }
-    Toas
     public String getUserId() {
         return email;
     }
